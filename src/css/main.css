@@ -33,4 +33,17 @@
   .categories .glide__slides, .categories .glide__track {
     overflow: visible;
   }
-  
+
+  .glide__slide {
+    opacity: 0.75;
+    transition: all 0.3s;
+  }
+
+  .glide__slide:hover {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+
+  .glide__slides {
+    padding: 10px 0 !important;
+  }
