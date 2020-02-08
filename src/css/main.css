@@ -47,3 +47,33 @@
   .glide__slides {
     padding: 10px 0 !important;
   }
+
+  .page-enter-active, .page-leave-active {
+    transition: opacity, transform 0.4s ease-in;
+  }
+
+  .page-enter, .page-leave-to {
+    opacity: 0;
+    transform: scale(1.1);
+  }
+
+  
+.bm-menu {
+  transition: 0.3s;
+  @apply bg-gray-800;
+}
+
+.bm-burger-bars {
+  @apply bg-gray-600;
+}
+
+.bm-burger-button {
+  width: 32px;
+  height: 28px;
+  position: fixed;
+  z-index: 999;
+}
+
+.line-style {
+  height: 10%;
+}

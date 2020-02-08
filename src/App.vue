@@ -3,7 +3,9 @@
     <SideBarNav />
 
     <div class="w-full">
-      <router-view />
+      <transition name="page" mode="out-in">
+        <router-view />
+      </transition>
     </div>
   </div>
 </template>
