@@ -4,8 +4,15 @@
 
 @import "tailwindcss/utilities";
 
+
 .bm-item-list > * > span {
-    @apply text-gray-500 uppercase font-normal text-base tracking-wide ml-8 mb-6
+    @apply text-gray-500 ;
+    @apply uppercase ;
+    @apply font-normal ;
+    @apply text-base  ;
+    @apply tracking-wide ;
+    @apply ml-8 ;
+    @apply mb-6;
   }
 
   .bm-item-list > * > span:hover {
