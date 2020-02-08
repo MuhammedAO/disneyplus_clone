@@ -3,9 +3,7 @@
     <SideBarNav />
 
     <div class="w-full">
-      <div class="container mx-auto">
-        <router-view />
-      </div>
+      <router-view />
     </div>
   </div>
 </template>
