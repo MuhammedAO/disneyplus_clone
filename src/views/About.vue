@@ -30,13 +30,18 @@
     </div>
 
     <div class="w-96 xl:w-1/3 pl-16 leading-loose">
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus fugit
-      tenetur velit quasi soluta sunt suscipit, eveniet dolorum. Tenetur
-      architecto voluptatum quis, vitae autem, vero tempora libero impedit culpa
-      debitis, quisquam nam nemo quidem modi sunt illo consequuntur maiores
-      magni.
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias
+      debitis cumque totam vero, quia ut reprehenderit non facilis possimus sed.
+      Ex dolor cum perferendis. Inventore dicta officiis dolore assumenda
+      molestias provident asperiores voluptatibus. Odit mollitia necessitatibus
+      porro soluta quidem possimus maxime laudantium dolores magnam! Culpa, cum
+      iure quibusdam perspiciatis dolor tenetur earum magnam harum soluta
+      aspernatur doloremque recusandae eius et delectus sequi nobis obcaecati
+      corrupti quis explicabo itaque id atque in? Sequi fugiat, nesciunt
+      dolorem, porro officia omnis distinctio quam, velit eligendi sint magnam
+      enim quaerat. Sunt, necessitatibus aliquid voluptate nihil aliquam officia
+      quae, nesciunt accusantium officiis, iure vel pariatur?
     </div>
-    <!-- <img src="@/assets/captain_marvel_background.jpg" alt="captain marvel"> -->
   </div>
 </template>
 
